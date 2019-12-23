@@ -1,6 +1,6 @@
 
 ### Task 1 
-``It cost 22 seconds too run the mapreduce.
+``It cost 22 seconds to run the mapreduce.
    
 
 
